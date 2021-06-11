@@ -10,7 +10,7 @@ It was created by Austen Collins in 2015 as a boilerplate project for a company 
 >
 >***[Austen Collins](https://github.com/ac360)*** - *[Serverless initial commit (April 20, 2015)](https://github.com/serverless/serverless/commit/b297fcb835428108bd1b4e75cb519c0fabff39fa)*
 
-When it was officially announced the project was called [JAWS](https://www.youtube.com/watch?v=D_U6luQ6I90) before being renamed to Serverless after the newly formed [Serverless Inc.](https://www.businesswire.com/news/home/20161012005381/en/Serverless-Inc.-Nets-3M-to-Radically-Simplify-Cloud-Infrastructure).
+When it was officially announced the project was called [JAWS](https://www.youtube.com/watch?v=D_U6luQ6I90) before being renamed to Serverless after the newly formed [Serverless Inc.](https://www.businesswire.com/news/home/20161012005381/en/Serverless-Inc.-Nets-3M-to-Radically-Simplify-Cloud-Infrastructure)
 
 >*One of the projects I had recycled the branding from was the JavaScript AWS framework. I'm a big JavaScript fan and at the time there just wasn't a good application framework for AWS. Something that could help developers be productive on AWS.*
 >
