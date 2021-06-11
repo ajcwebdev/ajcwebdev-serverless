@@ -73,7 +73,7 @@ functions: # Your "Functions"
 resources: # The "Resources" your "Functions" use, CloudFormation goes here
 ```
 
-## Install the `serverless` CLI.
+## Install the `serverless` CLI
 
 ```bash
 npm install -g serverless
