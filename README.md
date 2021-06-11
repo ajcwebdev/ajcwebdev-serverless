@@ -145,7 +145,7 @@ module.exports.hello = async (event) => {
 
 ### serverless deploy
 
-The `sls deploy` command deploys your entire service via CloudFormation. Run this command when you have made infrastructure changes (i.e., you edited `serverless.yml`).
+The `sls deploy` command deploys your entire service via CloudFormation. Run this command when you have made infrastructure changes such as editing `serverless.yml`.
 
 ```bash
 serverless deploy
